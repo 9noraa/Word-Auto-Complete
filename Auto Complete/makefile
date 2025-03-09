@@ -1,5 +1,4 @@
 #Name: Aaron Cohen
-#FSUID: ajc17d
 #using the flag -std=c++11 on linprog to access C++11 features
 
 main.o: main.cpp
