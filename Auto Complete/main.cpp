@@ -1,5 +1,4 @@
-/*Name: Aaron Cohen
-fsuid: ajc17d */
+/*Name: Aaron Cohen */
 
 			//includes for the program
 #include <iostream>
